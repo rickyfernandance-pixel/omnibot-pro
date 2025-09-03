@@ -1,1 +1,4 @@
 # omnibot-pro
+git remote add origin https://github.com/yourname/omnibot-pro.git
+git branch -M main
+git push -u origin main
